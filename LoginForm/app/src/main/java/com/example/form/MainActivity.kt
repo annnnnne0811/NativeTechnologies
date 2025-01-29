@@ -3,20 +3,26 @@ package com.example.form
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import androidx.compose.foundation.layout.* // For arranging components in a Column or Row
-import androidx.compose.foundation.text.KeyboardOptions // To customize keyboard behavior
-import androidx.compose.material.* // For Material Design components like Text, OutlinedTextField, and Button
-import androidx.compose.runtime.Composable // For defining reusable UI components
-import androidx.compose.runtime.remember // For state handling (not used in this example)
-import androidx.compose.ui.Modifier // For layout customization (e.g., padding, width)
-import androidx.compose.ui.text.input.KeyboardType // To set input types like email or password
-import androidx.compose.ui.text.input.PasswordVisualTransformation // To hide password input
-import androidx.compose.ui.unit.dp // For defining dimensions in Density-independent Pixels (dp)
-import androidx.compose.ui.Alignment // For alignment in Column or Row
-import androidx.compose.material.icons.Icons // For built-in icons
-import androidx.compose.material.icons.filled.Email // Email icon
-import androidx.compose.material.icons.filled.Lock // Lock icon
-import androidx.compose.ui.tooling.preview.Preview // For previewing UI without running the app
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.padding
+import androidx.compose.material3.Button
+import androidx.compose.material3.ElevatedButton
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Surface
+import androidx.compose.material3.Text
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.tooling.preview.Preview
+import androidx.compose.ui.unit.dp
+import com.codelab.basics.ui.theme.BasicsCodelabTheme
 
 
 class MainActivity : ComponentActivity() {
@@ -96,8 +102,13 @@ fun LoginForm(){
 
 }
 
-@Preview(showBackground = true)
 @Composable
-fun DefaultPreview(){
-    LoginForm()
+fun Surface(modifier: Modifier, color: Any, content: () -> Unit) {
+
+}
+
+@Composable
+fun LoginScreen() {
+    // UI elements like Text, Button, OutlinedTextField go here
+    Text("Login")
 }
