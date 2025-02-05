@@ -9,7 +9,7 @@ Used for Weekly labs and assignments
 <img src="img.png" alt="Light Mode" width="500">
 
 # The app in dark mode:
-    <img src="img_1.png" alt="Dark Mode" width="500">
+<img src="img_1.png" alt="Dark Mode" width="500">
 
 
 
