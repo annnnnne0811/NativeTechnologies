@@ -10,9 +10,10 @@ import androidx.compose.material3.dynamicLightColorScheme
 import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.tooling.preview.PreviewDynamicColors
 
 private val DarkColorScheme = darkColorScheme(
-    primary = Pink90,
+    primary = Pink30,
     secondary = PurpleGrey40,
     tertiary = Pink40
 )
@@ -36,19 +37,21 @@ private val LightColorScheme = lightColorScheme(
 @Composable
 fun ThemingTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
-    // Dynamic color is available on Android 12+
-    dynamicColor: Boolean = true,
+    dynamicColor: Boolean = false,    // You can toggle between dark/light mode
     content: @Composable () -> Unit
-) {
+){
     val colorScheme = when {
+        // Use dynamic colors for API 31+ (Android 12)
         dynamicColor -> {
             val context = LocalContext.current
             if (darkTheme) dynamicDarkColorScheme(context) else dynamicLightColorScheme(context)
         }
 
+        // Fallback to predefined dark/light color schemes
         darkTheme -> DarkColorScheme
         else -> LightColorScheme
     }
+
 
     MaterialTheme(
         colorScheme = colorScheme,
