@@ -14,7 +14,7 @@ https://github.com/annnnnne0811/NativeTechnologies
 - 
 - 
 - 
-> Week 5, Walkthrough Calories: https://github.com/annnnnne0811/NativeTechnologies/tree/master/WalkthroughCalories 
+- > Week 5, Walkthrough Calories: https://github.com/annnnnne0811/NativeTechnologies/tree/master/WalkthroughCalories 
 
   
 
