@@ -14,7 +14,6 @@ https://github.com/annnnnne0811/NativeTechnologies
 - > Week 5, Walkthrough Calories  : https://github.com/annnnnne0811/NativeTechnologies/tree/master/WalkthroughCalories 
 - >  App before filling in input fields:
   <img src="calorie1.png" alt="before" height = "500" width="500">
--
 - > App after running after filling input fields:
   <img src="calorie2.png" alt="After" height = "500" width="500">
 
