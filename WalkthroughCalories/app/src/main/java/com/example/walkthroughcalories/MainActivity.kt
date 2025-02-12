@@ -78,7 +78,7 @@ fun Heading (title: String){
         textAlign = TextAlign.Center,
         color = MaterialTheme.colorScheme.primary,
         modifier = Modifier
-            .fillMaxSize()
+            .fillMaxWidth() // makes sures it only takes full width and not full height
             .padding(
                 top = 16.dp,
                 bottom = 16.dp
@@ -139,7 +139,7 @@ fun WeightField(weightInput: String, onValueChange: (String)-> Unit) {
         label = {Text(text="Enter Weight")},
         singleLine = true,
         keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Number),
-        modifier = Modifier.fillMaxSize()
+        modifier = Modifier.fillMaxWidth()
     )
 }
 
@@ -193,7 +193,7 @@ fun IntensityList(onClick: (Float) -> Unit){
             value = selectedText,
             onValueChange = {selectedText = it},
             modifier = Modifier
-                .fillMaxSize()
+                .fillMaxWidth()
                 .onGloballyPositioned { coordinates ->
                     textFieldSize = coordinates.size.toSize()
                 },
