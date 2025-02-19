@@ -19,9 +19,14 @@ https://github.com/annnnnne0811/NativeTechnologies
 
 - > Week 6, Walkthrough Scaffold and Navigation: 
   - > Showing the different screens
-   <img src="week6.png" alt="before" height = "500" width="500"> 
-  <img src="week61.png" alt="before" height = "500" width="500">
-    <img src="week62.png" alt="before" height = "500" width="500">
+    <table>
+<tr>
+  <td><img src="week6.png" alt="before" width="1302"> </td>
+  <td><img src="week61.png" alt="before" width="1354"></td>
+  <td><img src="week62.png" alt="before" width="1424"></td>
+</tr>
+    </table>
+
 
 
 
