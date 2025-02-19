@@ -18,7 +18,8 @@ https://github.com/annnnnne0811/NativeTechnologies
 - App after running after filling input fields:
   <img src="calorie2.png" alt="After"  width="500">
 
-  
+
+- > Week 6, Walkthrough Scaffold and navigation: 
 
 
 
