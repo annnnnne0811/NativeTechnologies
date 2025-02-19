@@ -9,7 +9,7 @@ https://github.com/annnnnne0811/NativeTechnologies
 - The app in light and dark mode:
 <table>
 <tr>
-  <td><img src="img.png" alt="before" width="600"> </td>
+  <td><img src="img.png" alt="before" width="650"> </td>
   <td><img src="img_1.png" alt="before" width="600"></td>
 </tr>
 </table>
