@@ -19,7 +19,6 @@ https://github.com/annnnnne0811/NativeTechnologies
   <img src="calorie2.png" alt="After"  width="500">
 
 
-- > Week 6, Walkthrough Scaffold and navigation: 
 
 
 
