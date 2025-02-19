@@ -18,8 +18,10 @@ https://github.com/annnnnne0811/NativeTechnologies
   <img src="calorie2.png" alt="After" height = "500" width="500">
 
 - > Week 6, Walkthrough Scaffold and Navigation: 
-- > Showing the different screens
-  > 
+  - > Showing the different screens
+   <img src="week6.png" alt="before" height = "500" width="500"> 
+  <img src="week61.png" alt="before" height = "500" width="500">
+    <img src="week62.png" alt="before" height = "500" width="500">
 
 
 
