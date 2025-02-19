@@ -12,12 +12,15 @@ https://github.com/annnnnne0811/NativeTechnologies
 <img src="img_1.png" alt="Dark Mode" height="300" width="500">
 
 - > Week 5, Walkthrough Calories  : https://github.com/annnnnne0811/NativeTechnologies/tree/master/WalkthroughCalories 
-- >  App before filling in input fields:
-  <img src="calorie1.png" alt="before" height = "500" width="500">
-- > App after running after filling input fields:
-  <img src="calorie2.png" alt="After" height = "500" width="500">
+- >  App before and after filling in input fields:
+<table>
+<tr>
+  <td><img src="calorie1.png" alt="before" width="500"> </td>
+  <td><img src="calorie2.png" alt="before" width="838"></td>
+</tr>
+</table>
 
-- > Week 6, Walkthrough Scaffold and Navigation: 
+- > Week 6, Walkthrough Scaffold and Navigation: https://github.com/annnnnne0811/NativeTechnologies/tree/master/WalkthroughScaffoldNavigation 
   - > Showing the different screens
     <table>
 <tr>
