@@ -16,7 +16,7 @@ https://github.com/annnnnne0811/NativeTechnologies
 <table>
 <tr>
   <td><img src="calorie1.png" alt="before" width="500"> </td>
-  <td><img src="calorie2.png" alt="before" width="838"></td>
+  <td><img src="calorie2.png" alt="before" width="500"></td>
 </tr>
 </table>
 
