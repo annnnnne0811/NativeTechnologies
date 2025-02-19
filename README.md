@@ -6,10 +6,14 @@ https://github.com/annnnnne0811/NativeTechnologies
 - > Week 2, BMI  : 
 - > Week 3, LoginForm : https://github.com/annnnnne0811/NativeTechnologies/blob/master/LoginForm/app/src/main/java/com/example/form/MainActivity.kt
 - > Week 4, Theme: https://github.com/annnnnne0811/NativeTechnologies/tree/master/Theming
-- The app in light mode: 
-<img src="img.png" alt="Light Mode" height="300" width="500">
-- The app in dark mode:
-<img src="img_1.png" alt="Dark Mode" height="300" width="500">
+- The app in light and dark mode:
+<table>
+<tr>
+  <td><img src="img.png" alt="before" width="1270"> </td>
+  <td><img src="img_1.png" alt="before" width="435"></td>
+</tr>
+</table>
+
 
 - > Week 5, Walkthrough Calories  : https://github.com/annnnnne0811/NativeTechnologies/tree/master/WalkthroughCalories 
 - >  App before and after filling in input fields:
