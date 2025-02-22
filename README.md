@@ -28,9 +28,9 @@ https://github.com/annnnnne0811/NativeTechnologies
   - > Showing the different screens
     <table>
 <tr>
-  <td><img src="week6.png" alt="before" width="2000"> </td>
-  <td><img src="week61.png" alt="before" width="1354"></td>
-  <td><img src="week62.png" alt="before" width="1424"></td>
+  <td><img src="week6.png" alt="before" width="2500"> </td>
+  <td><img src="week61.png" alt="before" width="2500"></td>
+  <td><img src="week62.png" alt="before" width="2500"></td>
 </tr>
     </table>
 
