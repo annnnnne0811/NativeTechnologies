@@ -28,13 +28,13 @@ https://github.com/annnnnne0811/NativeTechnologies
   - > Showing the different screens
     <table>
 <tr>
-  <td><img src="week6.png" alt="before" width="1302"> </td>
+  <td><img src="week6.png" alt="before" width="500"> </td>
   <td><img src="week61.png" alt="before" width="1354"></td>
   <td><img src="week62.png" alt="before" width="1424"></td>
 </tr>
     </table>
 
-
+- > Week 7, BMI calculator: 
 
 
 
