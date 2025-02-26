@@ -26,21 +26,21 @@ https://github.com/annnnnne0811/NativeTechnologies
 
 - > Week 6, Walkthrough Scaffold and Navigation: https://github.com/annnnnne0811/NativeTechnologies/tree/master/WalkthroughScaffoldNavigation 
   - > Showing the different screens
-    <table>
+<table>
 <tr>
   <td><img src="week6.png" alt="before" width="2500"> </td>
   <td><img src="week61.png" alt="before" width="2500"></td>
   <td><img src="week62.png" alt="before" width="2500"></td>
 </tr>
-    </table>
+</table>
 
-- > Week 7, BMI calculator: 
-    <table>
+- > Week 7, BMI calculator: https://github.com/annnnnne0811/NativeTechnologies/tree/master/BMICalculator
+<table>
 <tr>
   <td><img src="bmical1.png" alt="before" width="500"> </td>
   <td><img src="bmical2.png" alt="before" width="500"></td>
 </tr>
-    </table>
+</table>
 
 
 
