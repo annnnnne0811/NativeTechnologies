@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.FlagQuest" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.RetrievingDataThroughData" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.TODO2" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
